@@ -13,4 +13,9 @@ cccccc
 test2브랜치 파일을 수정한다
 //testbranch
 여기서부터는 브랜치에서 작업한 내용
+<<<<<<< HEAD
 >>>>>>> testbranch
+=======
+//branch2
+여기서부터는 브랜치에서 작업한 내용
+>>>>>>> branch2
