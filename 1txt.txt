@@ -5,4 +5,8 @@ aaaaaa
 bbbbb
 cccccc
 브랜치치칯칫
+<<<<<<< HEAD
 Copy TEST TXT
+=======
+여기서 내가 바꾸면 어떻게되죠?
+>>>>>>> TEST-BR
