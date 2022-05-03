@@ -19,3 +19,6 @@ test2브랜치 파일을 수정한다
 //branch2
 여기서부터는 브랜치에서 작업한 내용
 >>>>>>> branch2
+
+Comment : test1
+
