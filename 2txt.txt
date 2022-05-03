@@ -1,0 +1,25 @@
+test
+upload push
+wwww
+aaaaaa
+bbbbb
+cccccc
+브랜치치칯칫
+여기서 내가 바꾸면 어떻게되죠?
+<<<<<<< HEAD
+브랜치 test2추가함
+=======
+브랜치 test2추가함
+test2브랜치 파일을 수정한다
+//testbranch
+여기서부터는 브랜치에서 작업한 내용
+<<<<<<< HEAD
+>>>>>>> testbranch
+=======
+//branch2
+여기서부터는 브랜치에서 작업한 내용
+>>>>>>> branch2
+
+Comment : test1
+Comment : txt file 2
+
